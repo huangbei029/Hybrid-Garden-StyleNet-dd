@@ -70,6 +70,4 @@ We welcome contributions to the `Hybrid-Garden-StyleNet-dd` project. If you find
 
 Please follow the guidelines in the `CONTRIBUTING.md` file for more details on how to contribute.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
